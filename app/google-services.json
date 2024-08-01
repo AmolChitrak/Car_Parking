@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "292079153463",
+    "project_id": "car-parking-1504f",
+    "storage_bucket": "car-parking-1504f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292079153463:android:5f3cd39901a8dc96e96ab2",
+        "android_client_info": {
+          "package_name": "com.dominicsilveira.parkingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDc_C5CX2LeLJjX1wL0Y6JVj2teJBPcEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292079153463:android:9f4993aabca0c464e96ab2",
+        "android_client_info": {
+          "package_name": "com.example.carparking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDc_C5CX2LeLJjX1wL0Y6JVj2teJBPcEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
